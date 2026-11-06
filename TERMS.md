@@ -1,6 +1,6 @@
 # Terms of Service — Wrexham AFC Devvit Bot
 
-**Last updated:** 2026-11-05
+**Last updated:** 2026-11-06
 
 ## 1. Overview
 
@@ -29,7 +29,7 @@ To the maximum extent permitted by law, the author is not liable for any direct,
 
 ## 5. Third-party services
 
-These apps interact with public APIs operated by third parties (rapidapi.com, spi-sports.io). Use of these APIs is subject to those operators' own terms. The author is not responsible for third-party service availability or accuracy.
+These apps interact with public APIs operated by third parties (rapidapi.com, api-sports.io). Use of these APIs is subject to those operators' own terms. The author is not responsible for third-party service availability or accuracy. No user data is sent to these third-party services.
 
 ## 6. Changes to these terms
 
